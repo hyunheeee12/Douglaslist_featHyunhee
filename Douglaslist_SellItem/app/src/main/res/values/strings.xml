@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Douglaslist_SellItem</string>
+    <string name="TxtTitle">Title</string>
+    <string name="txtHead">New Listing\n</string>
+    <string name="txtView2">Listing type</string>
+    <string name="txtPrice">Price</string>
+    <string name="rdSell">Sell</string>
+    <string name="rbShare">Share</string>
+    <string name="txtInputDes">Tell us about your item about size,
+        \n material, condition</string>
+    <string name="btnPost">Post</string>
+    <string name="btnCamera">Upload Image</string>
+    <string name="txtResult">Your Item is uploaded!</string>
+    <string name="itemImage">Item Image</string>
+</resources>
